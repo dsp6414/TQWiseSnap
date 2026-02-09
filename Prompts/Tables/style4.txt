@@ -1,0 +1,1 @@
+Table Recognition:The complete OCR recognizes all text in an entire image, strictly preserving paragraph breaks, line breaks, numbers, and bullet points, without merging paragraphs or removing content. The output is in plain text format, making it easy to copy and use directly.

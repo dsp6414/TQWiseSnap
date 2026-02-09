@@ -1,0 +1,1 @@
+Formula Recognition:Extract only mathematical formulas from the image,ignoring other text,and output the LaTeX code.

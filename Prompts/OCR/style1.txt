@@ -1,0 +1,1 @@
+Text Recognition:Please perform high-precision OCR recognition on the images, outputting the text line by line while preserving the original paragraph and line break structure. Do not add any extraneous explanations or modify the original text; only output the recognized results.

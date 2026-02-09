@@ -1,0 +1,1 @@
+Text Recognition:Intelligently recognize the handwritten text in the image, aiming to preserve as much readable content as possible. In cases of uncertainty, mark the unclear portions with "[Suspected]". Maintain the original writing order and line breaks, and do not make any assumptions or additions. Output the results as plain text.

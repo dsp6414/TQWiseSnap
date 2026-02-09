@@ -1,0 +1,1 @@
+Formula Recognition:Please output the results in LaTeX code format,without any additional explanations.

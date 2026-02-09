@@ -1,0 +1,1 @@
+Formula Recognition:The image contains blur and distortion;prioritize maintaining the integrity of the formula structure,and output the LaTeX code.

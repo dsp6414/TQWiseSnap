@@ -1,0 +1,1 @@
+Formula Recognition:The system must be able to recognize multiple lines of formulas, fractions, radicals, integrals, and matrices, while preserving the formula structure and formatting, and output LaTeX code.

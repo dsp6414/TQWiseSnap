@@ -1,0 +1,1 @@
+Formula Recognition:Optimized recognition for handwritten formulas,ensuring accurate identification of symbols and structure, and outputting LaTeX code.

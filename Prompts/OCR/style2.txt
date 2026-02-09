@@ -1,0 +1,1 @@
+Text Recognition:Perform professional OCR recognition: Ignore background noise, watermarks, stamps, shadows, and distortion, and extract only clear, readable text. Strictly preserve the original text, including punctuation, capitalization, numbers, and layout, and output the text in rows according to the original image, without summarization or editing.

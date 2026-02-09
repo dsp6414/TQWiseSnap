@@ -1,0 +1,1 @@
+Table Recognition:Identify and extract all table data within an image, accurately preserving the row and column relationships, merging cells, and mapping headings to content. Output standard Markdown tables with 100% accurate numbers, text, and symbols, without adding any extraneous information.
